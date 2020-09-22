@@ -1,2 +1,2 @@
-# Set Deal
-Online shopping webSite
+# Tendenza
+Social media Site
